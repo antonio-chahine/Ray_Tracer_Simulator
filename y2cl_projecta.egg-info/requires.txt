@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pylint
+pydocstyle
+darglint
+pytest
+pytest-retry
